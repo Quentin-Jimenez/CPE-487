@@ -1,3 +1,5 @@
+# Space Race
+
 The player controls the square, and the computer controls the circles. The player can move up down left and right via the buttons on the FPGA.
 
 The objective is to reach the top of the screen without being hit by an "asteroid." If you are hit, you reset to level 1. If you reach the top, you move on to the next level.
